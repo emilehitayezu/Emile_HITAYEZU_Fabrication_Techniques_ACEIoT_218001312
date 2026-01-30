@@ -106,6 +106,7 @@ These constraints affected design decisions:
  
 ## Fabrication Settings (Example Template)
 Fill these based on your machine:
+
 - Machine: ____________________ 
 
 - Material: ____________________ 
@@ -137,47 +138,65 @@ Fill these based on your machine:
 ## Why Prototyping Matters
 Prototyping helps validate the design before final production. It reveals:
 - sizing mistakes
+
 - tolerance issues
+
 - weak points
+
 - assembly difficulties
 
 ## Prototype 1
 ### Test Goal
 The purpose of Prototype 1 was to test:
 - overall size
+
 - part fit and alignment
+
 - strength of thin areas
+
 - assembly method
 
 ### Observed Problems (Failures)
 Common issues that may occur:
 - holes too tight or too loose
+
 - warping (3D printing)
+
 - weak joints due to thin walls
+
 - dimensions slightly off due to shrinkage/kerf
 
 ### Improvements Made
 Based on Prototype 1:
 - Increased/decreased hole diameter by a small tolerance
+
 - Increased wall thickness for strength
+
 - Adjusted clearances for press-fit parts
+
 - Simplified geometry to reduce supports/cutting errors
 
 
 ## Prototype 2 (Improved Version) 
 ### What Changed 
 - Applied the improvements found in Prototype 1
+
 - Re-tested fit, strength, and finishing
 
 ### Result
 Prototype 2 performed better because:
 - improved tolerances
+
 - better structural strength
+
 - easier assembly
 
 ## Final Outcome
 The final design is considered complete when:
 - it can be fabricated reliably
+
 - the assembly works as planned
+
 - dimensions match requirements
+
 - documentation is clear enough for reproduction

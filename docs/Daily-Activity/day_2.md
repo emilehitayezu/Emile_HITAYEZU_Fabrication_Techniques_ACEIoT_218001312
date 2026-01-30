@@ -172,6 +172,7 @@ To recreate this design accurately, the following principles are applied:
 > Slot accuracy directly determines whether parts fit too loosely or too tightly.
 
 ---
+
 ## Fabrication Considerations
 This design is intended for:
 - **Laser cutting** (acrylic, plywood, MDF)
